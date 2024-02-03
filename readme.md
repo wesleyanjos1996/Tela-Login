@@ -10,9 +10,9 @@ Este projeto é feito em **HTML5**, **CSS3** e **JavaScritp**
 * __CSS3__
 * __JavaScript__
 
-![Logo HTML5](image/readme/html-5.png)
-![Logo CSS3](image/readme/css-3.png)
-![Logo JavaScript](image/readme/js.png)
+![Logo HTML5](assets/images/readme/html-5.png)
+![Logo CSS3](assets/images/readme/css-3.png)
+![Logo JavaScript](assets/images/readme/js.png)
 
 ## Adicionais:
 
